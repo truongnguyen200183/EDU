@@ -1,0 +1,12 @@
+TITLE = "Game may bay"
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+
+WHITE = (255, 255, 255)
+WHITE_1 = (150, 150, 150)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+PURPLE = (124, 114, 237)
+GREY = (10, 10, 10)
+BLUE = (0, 0, 255)
+GREEN = (0, 255, 0)

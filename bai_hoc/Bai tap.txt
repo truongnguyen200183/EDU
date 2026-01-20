@@ -1,0 +1,68 @@
+*		Bài nâng cao
+------------------------------------------ 2026-01-07 ------------------------------------------
+1.		Liệt kê số chẵn: In ra tất cả các số chẵn trong mảng và vị trí (index) của chúng.
+2.		Tìm kiếm X: Nhập vào một số x kiểm tra xem x có xuất hiện trong mảng hay không. Nếu có, chỉ ra vị trí đầu tiên.
+3.		Tìm số nguyên tố: Liệt kê tất cả các số nguyên tố có trong mảng.
+4.		Số lớn hơn K: Nhập số k, đếm xem có bao nhiêu phần tử trong mảng lớn hơn k
+5.		Tìm số chính phương: Liệt kê các số chính phương có trong danh sách.
+
+6.		Đảo ngược mảng: Đảo ngược thứ tự các phần tử trong mảng (không dùng hàm reverse() có sẵn để luyện tư duy).
+7.		Sắp xếp tăng dần: Sắp xếp mảng theo thứ tự tăng dần (Sử dụng thuật toán như Bubble Sort hoặc hàm sort()).
+8.		Sắp xếp giảm dần: Sắp xếp mảng theo thứ tự giảm dần.
+9.		Chèn phần tử: Nhập một số x và vị trí k, chèn x vào vị trí k trong mảng.
+10.		Xóa phần tử: Xóa phần tử tại vị trí k được nhập từ bàn phím.
+
+11.		Loại bỏ trùng lặp: Xóa các phần tử trùng lặp trong mảng, chỉ giữ lại mỗi giá trị một lần duy nhất.
+12.		Tìm số lớn thứ hai: Tìm giá trị lớn thứ hai trong mảng (Lưu ý: Không dùng hàm max() hai lần một cách đơn giản).
+13.		Đếm tần suất: Đếm số lần xuất hiện của mỗi phần tử trong mảng.
+14.		Kiểm tra mảng đối xứng: Kiểm tra xem mảng có phải là mảng đối xứng hay không (Palindrome).
+15.		Tách mảng: Từ mảng ban đầu, tạo ra hai mảng mới: một mảng chứa toàn số chẵn, một mảng chứa toàn số lẻ.
+
+------------------------------------------ 2025-12-03 ------------------------------------------
+
+1.		Giải phương trình bậc 2:
+		Nhập vào 3 số a, b, c. Giải phương trình ax^2 + bx + c = 0
+2.		Phân loại tam giác:
+		Nhập vào 3 số nguyên dương a, b, c. Kiểm tra xem a, b, c có phải là 3 cạnh của 1 tam giác
+		hay không?. Nếu là 3 cạnh của 1 tam giác thì hãy phân loại xem tam giác đó là tam giác gì
+			Tam giác đều? 
+			Tam giác vuông? 
+			Tam giác thường?
+3.		Giao đoạn:
+		Nhập vào 4 số nguyên dương a, b, c, d (a < b, c < d). Tính xem có bao nhiêu số nguyên 
+		thuộc đoạn [a, b] giao với đoạn [c, d]
+4.		Giao 2 hình chữ nhật:
+		Cho 2 hình chữ nhật có cạnh song song trùng với các trục tọa độ. Hình chữ nhật thứ nhất 
+		được xác định bởi điểm trái dưới A(Xa, Ya) và điểm phải trên B(Xb, Yb). Hình chữ nhật 
+		thứ hai được xác định bởi điểm trái dưới C(Xc, Yc) và điểm phải trên D(Xd, Yd). Xét xem
+		2 hình chữ nhật có giao nhau hay không? Nếu giao thì tính diện tích phần giao.
+5.		Xếp loại học sinh:
+		Cho điểm thi Toán, Lý, Hóa, Sinh, Tin của học sinh. Hãy xếp loại kết quả của học sinh 
+		theo tiêu chí: Điểm trung bình (ĐTB)
+			9 <= ĐTB: Xuất sắc
+			8 <= ĐTB < 9: Giỏi
+			7 <= ĐTB < 8: Khá
+			5 <= ĐTB < 7: Trung bình
+			ĐTB < 5: Yếu
+
+
+------------------------------------------ 2025-12-01 ------------------------------------------
+1. 		Nhập số nguyên dương a có 3 chữ số. Tính tổng các chữ số của a.
+1.1*	Số nguyên dương a (số chữ số bất kỳ).
+
+2.		Nhập 3 số nguyên dương a, b, c. Tính tổng số nhỏ nhất và số lớn nhất.
+2.1*	Nhập n số.
+
+3.		Cho đường tròn bán kính r. Tính diện tích, chu vi hình tròn, làm tròn 2 chữ số.
+3.1*	Làm tròn n chữ số.
+
+4.		Nhập 3 số nguyên dương a, b, c. Tìm ước chung lớn nhất.
+4.1*	Nhập n số.
+
+5.		Nhập 2 số nguyên dương a, b. Tìm bội chung nhỏ nhất.
+5.1*	Nhập n số
+
+
+
+
+
