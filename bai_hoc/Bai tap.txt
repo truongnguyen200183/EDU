@@ -1,4 +1,25 @@
 *		Bài nâng cao
+------------------------------------------ 2026-01-21 ------------------------------------------
+1. Đếm phần tử thủ công: Nhập một mảng và in ra số lượng phần tử mà không dùng hàm len().
+2. Thay thế phần tử: Nhập mảng, nhập vị trí k và giá trị v. Thay thế phần tử tại vị trí k bằng v và in lại mảng.
+3. Tính tích mảng: Viết chương trình tính tích của tất cả các phần tử trong mảng số nguyên.
+4. Đầu và cuối: Nhập vào một mảng và in ra phần tử đầu tiên cùng phần tử cuối cùng của mảng đó.
+5. Tạo mảng tự động: Nhập số nguyên n, tạo và in ra một mảng chứa các số liên tiếp từ 1 đến n.
+6. Tổng vị trí lẻ: Tính tổng các phần tử nằm ở vị trí (index) lẻ trong mảng (vị trí 1, 3, 5...).
+7. Nhân đôi giá trị: Tạo một mảng mới từ mảng cũ bằng cách nhân đôi giá trị của từng phần tử.
+8. In ngược danh sách: In các phần tử của mảng theo thứ tự từ cuối về đầu (không làm thay đổi mảng gốc).
+9. Kiểm tra mảng rỗng: Viết chương trình kiểm tra xem một danh sách người dùng nhập vào có bị rỗng hay không.
+10. Ép kiểu danh sách: Cho một danh sách các chuỗi (ví dụ: ["1", "5", "9"]), hãy chuyển nó thành danh sách các số nguyên.
+11. Số âm cuối cùng: Tìm và in ra số âm cuối cùng xuất hiện trong mảng. Nếu không có số âm, in "Không có".
+12. Đếm số không: Đếm xem trong mảng có bao nhiêu phần tử có giá trị bằng 0.
+13. Chia hết cho 3 và 5: Liệt kê tất cả các phần tử trong mảng chia hết cho cả 3 và 5.
+14. Số dương nhỏ nhất: Tìm giá trị nhỏ nhất trong số các số dương của mảng (bỏ qua số âm và số 0).
+15. Lọc theo khoảng: Nhập hai số a và b. In ra các phần tử trong mảng có giá trị nằm trong đoạn từ a đến b.
+16. Kiểm tra tính dương: Kiểm tra xem toàn bộ các phần tử trong mảng có phải đều là số dương hay không (Trả về True/False).
+17. Vị trí của Max: Tìm vị trí (index) của phần tử lớn nhất đầu tiên được tìm thấy trong mảng.
+18. Trung bình cộng số lẻ: Tính trung bình cộng của tất cả các số lẻ có trong mảng.
+19. Số lượng phần tử Max: Tìm giá trị lớn nhất, sau đó đếm xem có bao nhiêu phần tử cùng đạt giá trị lớn nhất đó.
+20. Vị trí chẵn giá trị lẻ: In ra các phần tử nằm ở vị trí (index) chẵn nhưng bản thân giá trị phần tử đó là số lẻ.
 ------------------------------------------ 2026-01-07 ------------------------------------------
 1.		Liệt kê số chẵn: In ra tất cả các số chẵn trong mảng và vị trí (index) của chúng.
 2.		Tìm kiếm X: Nhập vào một số x kiểm tra xem x có xuất hiện trong mảng hay không. Nếu có, chỉ ra vị trí đầu tiên.
