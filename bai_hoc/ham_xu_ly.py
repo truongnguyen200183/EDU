@@ -28,3 +28,11 @@ def kiem_tra_so_nguyen_to(x):
         return True
     else:
         return False
+
+def kiem_tra_so_chinh_phuong(x):
+    a = int(x ** 0.5)
+
+    if x == a * a:
+        return True
+    else:
+        return False
