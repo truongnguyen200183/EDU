@@ -1,4 +1,25 @@
 *		Bài nâng cao
+------------------------------------------ 2026-02-08 ------------------------------------------
+1. Trung binh cong so duong: Tinh trung binh cong cua tat ca cac so duong trong mang.
+2. Lon hon trung binh cong: Liet ke cac phan tu co gia tri lon hon gia tri trung binh cong cua ca mang.
+3. Tim so gan X nhat: Nhap vao mot so X, tim phan tu trong mang co gia tri gan voi X nhat.
+4. Dem so chinh phuong: Dem xem trong mang co bao nhieu so chinh phuong (vi du: 1, 4, 9, 16...).
+5. So chan dau tien: Tim gia tri va vi tri (index) cua so chan dau tien trong mang. Neu khong co, in -1.
+6. Kiem tra mang tang dan: Kiem tra xem cac phan tu trong mang co dang sap xep tang dan hay khong.
+7. Tri tuyet doi: Thay the tat ca cac so am trong mang bang gia tri tuyet doi cua chung.
+8. So xuat hien nhieu lan: Liet ke cac phan tu xuat hien tu 2 lan tro len trong mang.
+9. Noi hai danh sach: Nhap hai mang tu ban phim va noi chung lai thanh mot mang duy nhat.
+10. Tim vi tri X cuoi cung: Nhap so X, tim vi tri (index) cuoi cung ma X xuat hien trong mang.
+11. So le tai vi tri le: Dem xem co bao nhieu so le nam o cac vi tri (index) le trong mang.
+12. Xoa phan tu dau tien: Viet chuong trinh xoa phan tu dau tien cua mang va in lai mang moi.
+13. Max cua ba so dau: Tim va in ra gia tri lon nhat trong 3 phan tu dau tien cua mang.
+14. Tong chia het cho K: Nhap so nguyen K, tinh tong cac phan tu trong mang chia het cho K.
+15. Thay the so khong: Thay the tat ca cac phan tu co gia tri bang 0 thanh gia tri -1.
+16. Tan suat xuat hien X: Nhap so X, dem xem X xuat hien bao nhieu lan trong mang.
+17. So lon nhat nho hon K: Nhap so K, tim so lon nhat trong mang nhung phai nho hon K.
+18. Mang doi xung: Kiem tra xem mang vua nhap co phai la mang doi xung (Palindrome) hay khong.
+19. Cap so bang nhau: Kiem tra xem trong mang co bat ky hai so nao dung canh nhau ma bang nhau hay khong.
+20. Tru di trung binh: Tao mot mang moi bang cach lay tung phan tu cua mang cu tru di gia tri trung binh cong.
 ------------------------------------------ 2026-01-21 ------------------------------------------
 1. Đếm phần tử thủ công: Nhập một mảng và in ra số lượng phần tử mà không dùng hàm len().
 2. Thay thế phần tử: Nhập mảng, nhập vị trí k và giá trị v. Thay thế phần tử tại vị trí k bằng v và in lại mảng.
