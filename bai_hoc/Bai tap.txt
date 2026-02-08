@@ -1,26 +1,25 @@
 *		Bài nâng cao
 ------------------------------------------ 2026-02-08 ------------------------------------------
-1. Trung binh cong so duong: Tinh trung binh cong cua tat ca cac so duong trong mang.
-2. Lon hon trung binh cong: Liet ke cac phan tu co gia tri lon hon gia tri trung binh cong cua ca mang.
-3. Tim so gan X nhat: Nhap vao mot so X, tim phan tu trong mang co gia tri gan voi X nhat.
-4. Dem so chinh phuong: Dem xem trong mang co bao nhieu so chinh phuong (vi du: 1, 4, 9, 16...).
-5. So chan dau tien: Tim gia tri va vi tri (index) cua so chan dau tien trong mang. Neu khong co, in -1.
-6. Kiem tra mang tang dan: Kiem tra xem cac phan tu trong mang co dang sap xep tang dan hay khong.
-7. Tri tuyet doi: Thay the tat ca cac so am trong mang bang gia tri tuyet doi cua chung.
-8. So xuat hien nhieu lan: Liet ke cac phan tu xuat hien tu 2 lan tro len trong mang.
-9. Noi hai danh sach: Nhap hai mang tu ban phim va noi chung lai thanh mot mang duy nhat.
-10. Tim vi tri X cuoi cung: Nhap so X, tim vi tri (index) cuoi cung ma X xuat hien trong mang.
-11. So le tai vi tri le: Dem xem co bao nhieu so le nam o cac vi tri (index) le trong mang.
-12. Xoa phan tu dau tien: Viet chuong trinh xoa phan tu dau tien cua mang va in lai mang moi.
-13. Max cua ba so dau: Tim va in ra gia tri lon nhat trong 3 phan tu dau tien cua mang.
-14. Tong chia het cho K: Nhap so nguyen K, tinh tong cac phan tu trong mang chia het cho K.
-15. Thay the so khong: Thay the tat ca cac phan tu co gia tri bang 0 thanh gia tri -1.
-16. Tan suat xuat hien X: Nhap so X, dem xem X xuat hien bao nhieu lan trong mang.
-17. So lon nhat nho hon K: Nhap so K, tim so lon nhat trong mang nhung phai nho hon K.
-18. Mang doi xung: Kiem tra xem mang vua nhap co phai la mang doi xung (Palindrome) hay khong.
-19. Cap so bang nhau: Kiem tra xem trong mang co bat ky hai so nao dung canh nhau ma bang nhau hay khong.
-20. Tru di trung binh: Tao mot mang moi bang cach lay tung phan tu cua mang cu tru di gia tri trung binh cong.
------------------------------------------- 2026-01-21 ------------------------------------------
+1. Trung bình cộng số dương: Tính trung bình cộng của tất cả các số dương trong mảng.
+2. Lớn hơn trung bình cộng: Liệt kê các phần tử có giá trị lớn hơn giá trị trung bình cộng của cả mảng.
+3. Tìm số gần X nhất: Nhập vào một số X, tìm phần tử trong mảng có giá trị gần với X nhất.
+4. Đếm số chính phương: Đếm xem trong mảng có bao nhiêu số chính phương (ví dụ: 1, 4, 9, 16...).
+5. Số chẵn đầu tiên: Tìm giá trị và vị trí (index) của số chẵn đầu tiên trong mảng. Nếu không có, in -1.
+6. Kiểm tra mảng tăng dần: Kiểm tra xem các phần tử trong mảng có đang sắp xếp tăng dần hay không.
+7. Trị tuyệt đối: Thay thế tất cả các số âm trong mảng bằng giá trị tuyệt đối của chúng.
+8. Số xuất hiện nhiều lần: Liệt kê các phần tử xuất hiện từ 2 lần trở lên trong mảng.
+9. Nối hai danh sách: Nhập hai mảng từ bàn phím và nối chúng lại thành một mảng duy nhất.
+10. Tìm vị trí X cuối cùng: Nhập số X, tìm vị trí (index) cuối cùng mà X xuất hiện trong mảng.
+11. Số lẻ tại vị trí lẻ: Đếm xem có bao nhiêu số lẻ nằm ở các vị trí (index) lẻ trong mảng.
+12. Xóa phần tử đầu tiên: Viết chương trình xóa phần tử đầu tiên của mảng và in lại mảng mới.
+13. Max của ba số đầu: Tìm và in ra giá trị lớn nhất trong 3 phần tử đầu tiên của mảng.
+14. Tổng chia hết cho K: Nhập số nguyên K, tính tổng các phần tử trong mảng chia hết cho K.
+15. Thay thế số không: Thay thế tất cả các phần tử có giá trị bằng 0 thành giá trị -1.
+16. Tần suất xuất hiện X: Nhập số X, đếm xem X xuất hiện bao nhiêu lần trong mảng.
+17. Số lớn nhất nhỏ hơn K: Nhập số K, tìm số lớn nhất trong mảng nhưng phải nhỏ hơn K.
+18. Mảng đối xứng: Kiểm tra xem mảng vừa nhập có phải là mảng đối xứng (Palindrome) hay không.
+19. Cặp số bằng nhau: Kiểm tra xem trong mảng có bất kỳ hai số nào đứng cạnh nhau mà bằng nhau hay không.
+20. Trừ đi trung bình: Tạo một mảng mới bằng cách lấy từng phần tử của mảng cũ trừ đi giá trị trung bình cộng.------------------------------------------ 2026-01-21 ------------------------------------------
 1. Đếm phần tử thủ công: Nhập một mảng và in ra số lượng phần tử mà không dùng hàm len().
 2. Thay thế phần tử: Nhập mảng, nhập vị trí k và giá trị v. Thay thế phần tử tại vị trí k bằng v và in lại mảng.
 3. Tính tích mảng: Viết chương trình tính tích của tất cả các phần tử trong mảng số nguyên.
