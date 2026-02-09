@@ -1,5 +1,47 @@
 *		Bài nâng cao
------------------------------------------- 2026-01-21 ------------------------------------------
+------------------------------------------ 2026-02-08 ------------------------------------------
+1. Trung bình cộng số dương: Tính trung bình cộng của tất cả các số dương trong mảng.
+2. Lớn hơn trung bình cộng: Liệt kê các phần tử có giá trị lớn hơn giá trị trung bình cộng của cả mảng.
+3. Tìm số gần X nhất: Nhập vào một số X, tìm phần tử trong mảng có giá trị gần với X nhất.
+4. Đếm số chính phương: Đếm xem trong mảng có bao nhiêu số chính phương (ví dụ: 1, 4, 9, 16...).
+5. Số chẵn đầu tiên: Tìm giá trị và vị trí (index) của số chẵn đầu tiên trong mảng. Nếu không có, in -1.
+6. Kiểm tra mảng tăng dần: Kiểm tra xem các phần tử trong mảng có đang sắp xếp tăng dần hay không.
+7. Trị tuyệt đối: Thay thế tất cả các số âm trong mảng bằng giá trị tuyệt đối của chúng.
+8. Số xuất hiện nhiều lần: Liệt kê các phần tử xuất hiện từ 2 lần trở lên trong mảng.
+9. Nối hai danh sách: Nhập hai mảng từ bàn phím và nối chúng lại thành một mảng duy nhất.
+10. Tìm vị trí X cuối cùng: Nhập số X, tìm vị trí (index) cuối cùng mà X xuất hiện trong mảng.
+11. Số lẻ tại vị trí lẻ: Đếm xem có bao nhiêu số lẻ nằm ở các vị trí (index) lẻ trong mảng.
+12. Xóa phần tử đầu tiên: Viết chương trình xóa phần tử đầu tiên của mảng và in lại mảng mới.
+13. Max của ba số đầu: Tìm và in ra giá trị lớn nhất trong 3 phần tử đầu tiên của mảng.
+14. Tổng chia hết cho K: Nhập số nguyên K, tính tổng các phần tử trong mảng chia hết cho K.
+15. Thay thế số không: Thay thế tất cả các phần tử có giá trị bằng 0 thành giá trị -1.
+16. Tần suất xuất hiện X: Nhập số X, đếm xem X xuất hiện bao nhiêu lần trong mảng.
+17. Số lớn nhất nhỏ hơn K: Nhập số K, tìm số lớn nhất trong mảng nhưng phải nhỏ hơn K.
+18. Mảng đối xứng: Kiểm tra xem mảng vừa nhập có phải là mảng đối xứng (Palindrome) hay không.
+19. Cặp số bằng nhau: Kiểm tra xem trong mảng có bất kỳ hai số nào đứng cạnh nhau mà bằng nhau hay không.
+20. Trừ đi trung bình: Tạo một mảng mới bằng cách lấy từng phần tử của mảng cũ trừ đi giá trị trung bình cộng.--------------------------------------
+
+1. Quản lý điểm học sinh: Một giáo viên nhập vào danh sách điểm môn Toán của một lớp học. Hãy viết chương trình tính điểm trung bình của cả lớp, sau đó liệt kê số lượng học sinh đạt điểm Giỏi (từ 8.0 trở lên) và số lượng học sinh chưa đạt (dưới 5.0).
+
+2. Hệ thống điểm danh: Lớp trưởng có một danh sách tên các học sinh đi học muộn ngày hôm nay. Hãy nhập thêm tên một học sinh X từ bàn phím để kiểm tra xem bạn đó có trong danh sách đi muộn hay không. Nếu có, hãy in ra thông báo "Bạn này có đi muộn" và cho biết bạn đó là người thứ mấy trong danh sách.
+
+3. Theo dõi nhiệt độ tuần: Một trạm khí tượng ghi lại nhiệt độ trung bình của 7 ngày trong tuần. Hãy viết chương trình tìm ngày có nhiệt độ cao nhất và ngày có nhiệt độ thấp nhất. Ngoài ra, hãy đếm xem trong tuần có bao nhiêu ngày nhiệt độ vượt ngưỡng 35 độ C (ngày nắng nóng).
+
+4. Tính tiền giỏ hàng: Bạn đi siêu thị và lưu giá tiền các món đồ đã chọn vào một danh sách. Nếu tổng số tiền của giỏ hàng vượt quá 500.000đ, hệ thống sẽ tự động giảm giá 10% trên tổng hóa đơn. Hãy in ra số tiền gốc, số tiền được giảm và số tiền cuối cùng bạn phải trả.
+
+5. Quản lý kho hàng: Một cửa hàng tạp hóa lưu số lượng tồn kho của 10 loại mặt hàng dưới dạng một danh sách số nguyên. Hãy viết chương trình tìm xem có mặt hàng nào đã hết (số lượng bằng 0) hay không. Nếu có, hãy in ra vị trí (index) của các mặt hàng đó để chủ cửa hàng đi nhập thêm.
+
+6. Nhật ký chạy bộ: Một vận động viên ghi lại quãng đường chạy (km) mỗi ngày trong vòng 10 ngày. Hãy tính tổng quãng đường vận động viên đó đã chạy được. Ngoài ra, hãy tìm xem ngày nào vận động viên chạy ít nhất và ngày nào chạy nhiều nhất.
+
+7. Giao dịch ngân hàng: Một tài khoản ngân hàng lưu lại lịch sử các giao dịch trong tháng. Tiền nạp vào được ghi là số dương, tiền rút ra được ghi là số âm (Ví dụ: [2000, -500, 3000]). Hãy tính số dư cuối cùng trong tài khoản sau khi thực hiện tất cả giao dịch và đếm xem người đó đã rút tiền bao nhiêu lần.
+
+8. Bán vé xe buýt: Một tuyến xe buýt có giá vé cố định là 10.000đ. Tuy nhiên, trẻ em dưới 6 tuổi được miễn phí (0đ) và người già trên 60 tuổi được giảm 50% giá vé. Cho một danh sách tuổi của các hành khách trên xe, hãy tính tổng số tiền vé mà nhân viên bán vé thu được.
+
+9. Kiểm tra độ dài mật khẩu: Hệ thống quản trị viên lưu trữ một danh sách các mật khẩu người dùng vừa đăng ký. Một mật khẩu được coi là "an toàn" nếu nó có độ dài từ 8 ký tự trở lên. Hãy đếm xem trong danh sách có bao nhiêu mật khẩu đạt tiêu chuẩn an toàn và bao nhiêu mật khẩu quá ngắn.
+
+10. Đánh giá sản phẩm: Trên một trang thương mại điện tử, khách hàng đánh giá sản phẩm theo số sao từ 1 đến 5. Cho một mảng chứa các mức đánh giá của khách hàng, hãy tính tỷ lệ phần trăm số lượt đánh giá 5 sao trên tổng số lượt đánh giá của sản phẩm đó.
+
+---- 2026-01-21 ------------------------------------------
 1. Đếm phần tử thủ công: Nhập một mảng và in ra số lượng phần tử mà không dùng hàm len().
 2. Thay thế phần tử: Nhập mảng, nhập vị trí k và giá trị v. Thay thế phần tử tại vị trí k bằng v và in lại mảng.
 3. Tính tích mảng: Viết chương trình tính tích của tất cả các phần tử trong mảng số nguyên.
