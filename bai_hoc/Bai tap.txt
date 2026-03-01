@@ -1,5 +1,19 @@
 *		Bài nâng cao
+------------------------------------------ 2026-03-01 ------------------------------------------
+
+1. Quản lý kho hàng điện tử: Một cửa hàng lưu số lượng tồn kho của 10 mẫu điện thoại khác nhau trong một danh sách. Để chuẩn bị cho đợt khuyến mãi, chủ cửa hàng quy định mẫu nào có số lượng dưới 5 chiếc là "Sắp hết hàng". Hãy viết chương trình liệt kê vị trí (index) của các mẫu điện thoại sắp hết hàng và tính tổng số lượng máy còn lại trong kho.
+2. Danh sách học bổng: Một lớp học có danh sách điểm trung bình của 15 học sinh. Nhà trường quyết định trao học bổng cho những bạn có điểm từ 9.0 trở lên. Hãy viết chương trình in ra vị trí (số thứ tự) của các bạn được nhận học bổng và tính xem trung bình cộng số điểm của riêng những bạn được nhận học bổng đó là bao nhiêu.
+3. Thử thách chạy bộ 30 ngày: Một người ghi lại số bước chân họ đi bộ mỗi ngày trong suốt một tháng (30 ngày). Hãy đếm xem trong tháng đó có bao nhiêu ngày người này đạt mục tiêu "Sức khỏe" (đi trên 10.000 bước) và có ngày nào họ lười biếng (đi dưới 1.000 bước) hay không.
+4. Quản lý thư viện sách: Một thủ thư quản lý danh sách số ngày trả sách quá hạn của 10 bạn đọc. Nếu quá hạn 1 ngày, bạn đọc phải nộp phạt 2.000 đồng. Hãy viết chương trình tính tổng số tiền phạt mà thư viện thu được từ 10 bạn đọc này và tìm xem ai là người nộp phạt nhiều nhất (in ra vị trí của người đó).
+5. Tiền điện hàng tháng: Một hộ gia đình ghi lại số điện tiêu thụ (kWh) của 6 tháng đầu năm vào một danh sách. Giá điện cố định là 3.000 đồng cho mỗi kWh. Hãy tính tổng số tiền điện của cả 6 tháng và tìm xem tháng nào nhà này dùng điện tiết kiệm nhất (số kWh thấp nhất).
+6. Kiểm tra chuyên cần: Một lớp học ghi lại số buổi nghỉ học của từng học sinh trong danh sách. Quy định là học sinh nào nghỉ quá 3 buổi sẽ không được thi cuối kỳ. Hãy viết chương trình kiểm tra xem trong danh sách có bạn nào bị cấm thi hay không. Nếu có, hãy in ra thông báo "Cần nhắc nhở bạn ở vị trí thứ..." cho từng trường hợp.
+7. Giá thực đơn quán cà phê: Một quán cà phê có một danh sách giá tiền các món uống (ví dụ: [25, 30, 45...]). Do nguyên liệu tăng giá, chủ quán quyết định tăng thêm 5.000 đồng cho tất cả các món có giá gốc dưới 30.000 đồng. Hãy cập nhật lại danh sách giá mới và in ra màn hình.
+8. Phân loại cân nặng: Một bác sĩ ghi lại cân nặng của một nhóm 10 trẻ em để theo dõi dinh dưỡng. Hãy giúp bác sĩ đếm xem có bao nhiêu trẻ nặng trên 40kg (béo phì cấp độ nhẹ) và tính cân nặng trung bình của cả nhóm trẻ này.
+9. Thời lượng bài hát: Một danh sách lưu trữ thời lượng (tính bằng giây) của các bài hát trong một album nhạc. Hãy tìm xem bài hát dài nhất trong album đó có thời lượng bao nhiêu giây và in ra danh sách các bài hát có thời lượng trên 4 phút (240 giây).
+10. Hệ thống bãi giữ xe: Một bãi xe lưu trữ danh sách các số cuối của biển số xe đang gửi (ví dụ: [12, 45, 78, 90]). Khi một người khách vào tìm xe, họ nhập số cuối biển số xe của mình là X. Hãy viết chương trình tìm xem xe đó nằm ở vị trí thứ mấy trong bãi. Nếu không tìm thấy, hãy in ra "Không có xe này trong bãi".
+
 ------------------------------------------ 2026-02-08 ------------------------------------------
+
 1. Trung bình cộng số dương: Tính trung bình cộng của tất cả các số dương trong mảng.
 2. Lớn hơn trung bình cộng: Liệt kê các phần tử có giá trị lớn hơn giá trị trung bình cộng của cả mảng.
 3. Tìm số gần X nhất: Nhập vào một số X, tìm phần tử trong mảng có giá trị gần với X nhất.
@@ -19,7 +33,9 @@
 17. Số lớn nhất nhỏ hơn K: Nhập số K, tìm số lớn nhất trong mảng nhưng phải nhỏ hơn K.
 18. Mảng đối xứng: Kiểm tra xem mảng vừa nhập có phải là mảng đối xứng (Palindrome) hay không.
 19. Cặp số bằng nhau: Kiểm tra xem trong mảng có bất kỳ hai số nào đứng cạnh nhau mà bằng nhau hay không.
-20. Trừ đi trung bình: Tạo một mảng mới bằng cách lấy từng phần tử của mảng cũ trừ đi giá trị trung bình cộng.--------------------------------------
+20. Trừ đi trung bình: Tạo một mảng mới bằng cách lấy từng phần tử của mảng cũ trừ đi giá trị trung bình cộng.
+
+--------------------------------------
 
 1. Quản lý điểm học sinh: Một giáo viên nhập vào danh sách điểm môn Toán của một lớp học. Hãy viết chương trình tính điểm trung bình của cả lớp, sau đó liệt kê số lượng học sinh đạt điểm Giỏi (từ 8.0 trở lên) và số lượng học sinh chưa đạt (dưới 5.0).
 
@@ -42,6 +58,7 @@
 10. Đánh giá sản phẩm: Trên một trang thương mại điện tử, khách hàng đánh giá sản phẩm theo số sao từ 1 đến 5. Cho một mảng chứa các mức đánh giá của khách hàng, hãy tính tỷ lệ phần trăm số lượt đánh giá 5 sao trên tổng số lượt đánh giá của sản phẩm đó.
 
 ---- 2026-01-21 ------------------------------------------
+
 1. Đếm phần tử thủ công: Nhập một mảng và in ra số lượng phần tử mà không dùng hàm len().
 2. Thay thế phần tử: Nhập mảng, nhập vị trí k và giá trị v. Thay thế phần tử tại vị trí k bằng v và in lại mảng.
 3. Tính tích mảng: Viết chương trình tính tích của tất cả các phần tử trong mảng số nguyên.
@@ -62,7 +79,9 @@
 18. Trung bình cộng số lẻ: Tính trung bình cộng của tất cả các số lẻ có trong mảng.
 19. Số lượng phần tử Max: Tìm giá trị lớn nhất, sau đó đếm xem có bao nhiêu phần tử cùng đạt giá trị lớn nhất đó.
 20. Vị trí chẵn giá trị lẻ: In ra các phần tử nằm ở vị trí (index) chẵn nhưng bản thân giá trị phần tử đó là số lẻ.
+
 ------------------------------------------ 2026-01-07 ------------------------------------------
+
 1.		Liệt kê số chẵn: In ra tất cả các số chẵn trong mảng và vị trí (index) của chúng.
 2.		Tìm kiếm X: Nhập vào một số x kiểm tra xem x có xuất hiện trong mảng hay không. Nếu có, chỉ ra vị trí đầu tiên.
 3.		Tìm số nguyên tố: Liệt kê tất cả các số nguyên tố có trong mảng.
@@ -108,8 +127,8 @@
 			5 <= ĐTB < 7: Trung bình
 			ĐTB < 5: Yếu
 
-
 ------------------------------------------ 2025-12-01 ------------------------------------------
+
 1. 		Nhập số nguyên dương a có 3 chữ số. Tính tổng các chữ số của a.
 1.1*	Số nguyên dương a (số chữ số bất kỳ).
 
